@@ -34,6 +34,8 @@ EXTENSIONS = {
     'eps': {'binary', 'eps'},
     'erb': {'text', 'erb'},
     'exe': {'binary'},
+    'ex': {'text', 'elixir'},
+    'exs': {'text', 'elixir'},
     'eyaml': {'text', 'yaml'},
     'feature': {'text', 'gherkin'},
     'fish': {'text', 'fish'},
